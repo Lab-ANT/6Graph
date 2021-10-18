@@ -1,6 +1,6 @@
 # 6Graph
 
-This a tool for IPv6 address pattern mining by learning the distribution of known active addresses. Its idea is introduced in the paper "6Graph: A Graph-Theoretic Approach to Address Pattern Mining for Internet-wide IPv6 Scanning".
+This is a tool for IPv6 address pattern mining by learning the distribution of known active addresses. Its idea is introduced in the paper "6Graph: A Graph-Theoretic Approach to Address Pattern Mining for Internet-wide IPv6 Scanning".
 
 
 ## How to run ?
