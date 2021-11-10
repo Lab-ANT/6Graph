@@ -10,7 +10,7 @@ This is a tool for IPv6 address pattern mining by learning the distribution of k
     1. python 3.6 or higher version
     2. numpy 1.21.2 or higher version
     3. IPy 1.1 or higher version
-    4. network 2.6.2 or higher version
+    4. networkx 2.6.2 or higher version
 
 
 ###  Convert Seeds
