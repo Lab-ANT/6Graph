@@ -54,4 +54,4 @@ Use those "high-quality" address regions for IPv6 scanning with your choose tool
 
 ### Future Work
 
-In fact, the existing Internet-wide scanners, e.g. Zmap and Masscan, are not yet adapted for IPv6 scanning. To this end, we plan to implement an IPv6-oriented tool for pattern-based (rather than the prefix-based) target generation and scanning at <https://github.com/Lab-ANT/Pmap>.
+In fact, the existing Internet-wide scanners, e.g. Zmap and Masscan, are not yet adapted for IPv6 scanning. To this end, we plan to implement an IPv6-oriented tool for pattern-based (rather than the prefix-based) target generation and scanning at <https://github.com/hbn1987/6Scan.git>.
